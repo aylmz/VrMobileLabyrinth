@@ -34,3 +34,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+#Samples and demos
+Assets/GoogleVR/Demos*
+Assets/SampleScenes*
